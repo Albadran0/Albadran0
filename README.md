@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Habibi
+I'm a student in constructor university, as software,data and technology.
+
+I wanna learn and help others as much as i could.
+
+Take care Habibi.
 
 <!--
 **Albadran0/Albadran0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
